@@ -1,0 +1,5 @@
+watchdog.sh: line 74: 57082 Killed: 9               nohup /Library/Frameworks/Python.framework/Versions/3.13/bin/python3.13 bot.py >> "$BOT_LOG" 2>&1
+watchdog.sh: line 74: 73028 Killed: 9               nohup /Library/Frameworks/Python.framework/Versions/3.13/bin/python3.13 bot.py >> "$BOT_LOG" 2>&1
+watchdog.sh: line 221: 75890 Killed: 9               nohup /Library/Frameworks/Python.framework/Versions/3.13/bin/python3.13 bot.py >> "$BOT_LOG" 2>&1
+watchdog.sh: line 74: 93590 Killed: 9               nohup /Library/Frameworks/Python.framework/Versions/3.13/bin/python3.13 bot.py >> "$BOT_LOG" 2>&1
+watchdog.sh: line 221: 13592 Killed: 9               nohup /Library/Frameworks/Python.framework/Versions/3.13/bin/python3.13 bot.py >> "$BOT_LOG" 2>&1
